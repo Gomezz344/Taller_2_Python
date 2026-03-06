@@ -1,0 +1,1 @@
+opcion1 = print("1. Convertir grados celsius a fahrenheit")
